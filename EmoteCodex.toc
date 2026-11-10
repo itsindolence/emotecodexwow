@@ -1,0 +1,16 @@
+## Interface: 16001, 11509, 20506, 38002, 50504, 120100, 120105, 120107
+## Title: Emote Codex
+## Notes: One-click panel with every emote in the game
+## Notes-ruRU: Панель для быстрого использования любой эмоции в игре
+## Version: @project-version@
+## Author: Emote Codex contributors
+## SavedVariables: EmoteCodexDB
+## Category: Chat
+## IconTexture: Interface\AddOns\EmoteCodex\media\icon
+## X-License: MIT
+## X-Curse-Project-ID: 0
+## X-Wago-ID: 0
+## X-WoWI-ID: 0
+
+Locales.lua
+Core.lua

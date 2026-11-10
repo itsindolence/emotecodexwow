@@ -1,0 +1,5 @@
+<Bindings>
+  <Binding name="EMOTECODEX_TOGGLE" header="EMOTECODEX">
+    EmoteCodex_Toggle()
+  </Binding>
+</Bindings>
